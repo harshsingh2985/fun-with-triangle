@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:ital,wght@1,400;1,500&display=swap');
+
+body{
+    font-family: 'Kanit', sans-serif;
+    /* background-color: #a8a29e; */
+
+}
+
+.container{
+    padding-left:1rem;
+    padding-right:1rem;
+
+}
+.navigation{
+    background:#dc2626;
+    border-radius: 0.7rem;
+    color: white;
+    /* padding: 0.5rem; */
+}
+.navigation .nav-brand{
+    font-weight: bold;
+    text-align: center;
+}
+.list-non-bullet{
+    list-style: none;
+}
+.list-item-inline{
+    display: inline;
+    padding:1rem;
+    
+
+}
+
